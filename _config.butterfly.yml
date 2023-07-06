@@ -51,22 +51,22 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # Github: https://github.com/fomalhaut1998 || icon-github || faa-tada
-  微信: /assets/QRCode.jpg || icon-weixin || faa-tada
-  QQ: https://res.abeim.cn/api/qq/?qq=1174008660 || icon-QQ || faa-tada
-  B站: https://space.bilibili.com/220757832 || icon-bilibili || faa-tada
-  QQ邮箱: mailto:1174008660@qq.com || icon-youxiang || faa-tada
-  力扣: https://leetcode.cn/u/fomalhaut1998 || icon-leetcode || faa-tada
-  # 微博: https://weibo.com/u/6473136435 || icon-weibo || faa-tada
-  # 知乎: https://www.zhihu.com/people/liang-jia-chao-19 || icon-shejiaotubiao-10 || faa-tada
+  # Github: https://github.com/2028257409 || icon-github || faa-tada
+  微信（不透入）: /assets/QRCode.jpg || icon-weixin || faa-tada
+  QQ: https://res.abeim.cn/api/qq/?qq=1901706601|| icon-QQ || faa-tada
+  B站: https://space.bilibili.com/1483547579?spm_id_from=333.1007.0.0 || icon-bilibili || faa-tada
+  QQ邮箱: mailto:1901706601@qq.com || icon-youxiang || faa-tada
+  言川的网站（没有做好...）: https://178hertz.neocities.org/ || icon-leetcode || faa-tada
+  #  P站: https://www.pixiv.net/users/95947842 || icon-weibo || faa-tada
+  # 知乎: https://www.zhihu.com/people/57-76-57-12-52 || icon-shejiaotubiao-10 || faa-tada
   # RSS: /atom.xml || icon-RSS || faa-tada
 
-  # iconfont icon-github: https://github.com/fomalhaut1998 || Github
-  # iconfont icon-youjian: mailto:1174008660@qq.com || QQ邮箱
-  # iconfont icon-tv: https://space.bilibili.com/220757832 || B站
-  # iconfont icon-leetcode: https://leetcode.cn/u/fomalhaut1998/ || 力扣
-  # iconfont icon-weibo: https://weibo.com/u/6473136435 || 微博
-  # iconfont icon-shejiaotubiao-46: https://www.zhihu.com/people/liang-jia-chao-19 || 知乎
+  # iconfont icon-github: https://github.com/2028257409 || Github
+  # iconfont icon-youjian: mailto:1901706601@qq.com || QQ邮箱
+  # iconfont icon-tv: https://space.bilibili.com/1483547579?spm_id_from=333.1007.0.0|| B站
+  # iconfont icon-leetcode: https://178hertz.neocities.org/ || 言川的网站（没有做好...）
+  # iconfont icon-weibo: https://www.pixiv.net/users/95947842 || P站
+  # iconfont icon-shejiaotubiao-46: https://www.zhihu.com/people/57-76-57-12-52 || 知乎
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -671,7 +671,7 @@ subtitle:
   source: false
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
-    - "Welcome to Fomalhaut🥝のTiny Home!🤣🤣🤣"
+    - "Welcome to Fomalhaut 178Hertz"
     - "Hope you have a nice day!🍭🍭🍭"
 
 # Loading Animation (加載動畫)
